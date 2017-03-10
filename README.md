@@ -1,5 +1,9 @@
 # frame
 
+Using vue-cli with webpack-simple
+- https://github.com/vuejs/vue-cli
+- https://github.com/vuejs-templates/webpack-simple
+
 > Website, insert frame to upload picture.
 
 ## Build Setup
