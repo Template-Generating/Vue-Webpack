@@ -14,9 +14,7 @@ webpack(config).run(function (err, stats) {
         process.exit(1);
     }
 
-    // add index to dist
-    
-
     console.log(chalk.green('Compiled successfully.'));
     console.log();
 });
+
