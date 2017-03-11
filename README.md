@@ -1,4 +1,4 @@
-# frame
+# Template
 
 Using vue-cli with webpack-simple
 - https://github.com/vuejs/vue-cli
@@ -16,6 +16,9 @@ npm install
 npm run dev
 
 # build for production with minification
+npm run build
+
+# build and deploy production to gh-pages.
 npm run build
 ```
 
