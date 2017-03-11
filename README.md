@@ -19,7 +19,7 @@ npm run dev
 npm run build
 
 # build and deploy production to gh-pages.
-npm run build
+npm run deploy
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
